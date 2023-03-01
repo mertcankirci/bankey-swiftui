@@ -1,2 +1,1 @@
-# bankey-swiftui
-Bankey app that Jonathan Rasmusson created in his UIKit Udemy course but coded with SwiftUI
+Hi ! In this project i cloned the Bankey project from Jonathan Rasmusson.You can find the project in his UIKit udemy course but i will code Bankey with SwiftUI.Hope you enjoy ! 
