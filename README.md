@@ -1,1 +1,4 @@
-Hi ! In this project i cloned the Bankey project from Jonathan Rasmusson.You can find the project in his UIKit udemy course but i will code Bankey with SwiftUI.Hope you enjoy ! 
+Hi ! In this project i made a project that has following features :
+User login with local data 
+Fetching data from API and showing
+
